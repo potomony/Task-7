@@ -122,11 +122,15 @@ ul li{
 .footer-para{
     color: white;
     font-size: 15px;
-    text-align: center;
+    text-align: left;
+    margin-bottom: 0px;
     
 }
+.img-div{
+    margin-top: 0px;
+}
 .last-div{
-    margin-left: 110px;
+    margin-left: 150px;
     
 }
 
@@ -145,6 +149,7 @@ ul li{
     margin-left: 300px;
 }
 .footer-sec{
+    
     background-color: black;
     margin-top: 60px;
 }
