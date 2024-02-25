@@ -153,6 +153,9 @@ ul li{
     background-color: black;
     margin-top: 60px;
 }
+.p-mail{
+    color: white;
+}
 .input{
     width: 60%;
     height: 20px;
